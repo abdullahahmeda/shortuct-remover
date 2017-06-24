@@ -7,7 +7,7 @@ but I wanted to back to Windows again. so I created this python file to remove a
 
 It's very easy. here is a 4-step guide
 
-1. Download latest python 2.7 from [here] (https://www.python.org/downloads/).
+1. Download latest python 2.7 from [here](https://www.python.org/downloads/).
 2. Include "python" to your system variables(it should be done automatically).
 3. Mount all your partitions.
 4. Run shortcut-remover with the command: `python shortcut-remover.py`.
