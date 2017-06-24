@@ -14,4 +14,4 @@ It's very easy. here is a 4-step guide
 
 Note: Make sure that the file is in your current directory.
 
-Now you can install windows again, no more shortcut virsues!
+Now you can install windows again, no more shortcut virsues! :smiley:
